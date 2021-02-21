@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_"
+   android:background="@drawable/apron2"
+    android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+<ImageView
+    android:layout_width="125dp"
+    android:layout_height="100dp"
+    android:src="@drawable/foodies"/>
+            <ImageButton
+                android:id="@+id/exit_to"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/exit_to"
+                android:layout_gravity="center"/>
+    <Button
+        android:id="@+id/login_frag"
+        android:layout_gravity="center"
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="185dp"
+        android:background="@drawable/bj2"
+        android:text="@string/login"
+         />
+
+
+            <Button
+                android:id="@+id/unlogin_frag"
+                android:layout_gravity="center"
+                android:layout_width="235dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-55dp"
+                android:background="@drawable/bj2"
+                android:text="@string/unlogin"
+                android:visibility="visible"
+                />
+
+
+
+
+            <Button
+                android:id="@+id/register_frag"
+                android:layout_width="235dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/bj2"
+                android:text="@string/register"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/upload_recipe_frag"
+                android:layout_width="235dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/bj2"
+                android:text="@string/upload_recipe"
+                android:visibility="visible" />
+
+
+            <Button
+                android:id="@+id/upload_recipe_frag1"
+                android:layout_width="235dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="-55dp"
+                android:background="@drawable/bj2"
+                android:text="@string/upload_recipe"
+                android:visibility="visible" />
+
+
+
+            <Button
+                android:id="@+id/search_frag"
+                android:layout_width="235dp"
+                android:visibility="visible"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/bj2"
+                android:text="@string/serch_recipe"
+                 />
+            <Button
+                android:id="@+id/search_frag1"
+                android:layout_width="235dp"
+                android:visibility="visible"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="-45dp"
+                android:background="@drawable/bj2"
+                android:text="@string/serch_recipe"
+                />
+
+
+
+        </LinearLayout>
+</LinearLayout>

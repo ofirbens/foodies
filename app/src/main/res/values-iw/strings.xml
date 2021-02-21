@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow"> חיפוש מתכונים פתוח לך כמשתמש רשום </string>
+    <string name="app_name">foodies</string>
+    <string name="unlogin">לחץ כדי להתנתק</string>
+    <string name="apple">תפוח</string>
+    <string name="yes">כן</string>
+    <string name="log_out">נרשמה יצאה מהמערכת</string>
+    <string name="tap_for_add_recipe">לחץ כדי להוסיף מתכון</string>
+    <string name="sartrs">ראשונות</string>
+    <string name="meals">עיקריות</string>
+    <string name="desserts">קינוחים</string>
+    <string name="tap_for_more">לחץ לאפשרויות נוספות </string>
+    <string name="make_sure">בבקשה בדוק שכל הפרטים נכונים ואשר </string>
+    <string name="lets_cook">בואו נבשל </string>
+    <string name="Search_Here">חפש כאן</string>
+    <string name="choose_recipe">בחר את סוג המנה שתרצה להכין </string>
+    <string name= "look_for_prodacts">חפש מוצרים כדי להכין את המתכון שלך </string>
+    <string name="No_Match_found">לא נמצאה תוצאה</string>
+    <string name="prompt_email">אימייל</string>
+    <string name="enter_text">הכנס טקסט----></string>
+    <string name="sentence_login">ברוכים הבאים</string>
+    <string name="prompt_password">סיסמה</string>
+    <string name="just_for">ניתן רק למשתמשים רשומים </string>
+    <string name="upload_recipe">העלה את המתכון שלך</string>
+    <string name="serch_recipe">חפש את מתכונים </string>
+    <string name="action_sign_in">התחבר או הרשם</string>
+    <string name="action_sign_in_short">התחבר</string>
+    <string name="welcome">"ברוכים הבאים"</string>
+    <string name="invalid_username" >שם משתמש לא נכון</string>
+    <string name="invalid_password">הסיסמה חייבת להכיל >5 ספרות</string>
+    <string name="login_failed">"התחברות נכשלה"</string>
+    <string name="desert">קינוח</string>
+    <string name="start">מנת פתיחה</string>
+    <string name="meal">מנה עיקרית</string>
+    <string name="add_recipe">הוספת מנה</string>
+    <string name="instructions">תהליך ההכנה</string>
+    <string name="recipeName">שם המתכון</string>
+    <string name="ingredients">רכיבים</string>
+    <string name="add">הוספה</string>
+    <string name="ingredient_error">יש למלא מרכיב קודם</string>
+    <string name="upload_to_server">העלאה</string>
+    <string name="add_recipe_name">הזן שם למתכון</string>
+    <string name="please_choose_an_image">אנא בחר תמונה</string>
+    <string name="login">התחברות</string>
+    <string name="email">דואר אלקטרוני</string>
+    <string name="password">סיסמא</string>
+    <string name="username">שם משתמש</string>
+    <string name="register">רישום</string>
+    <string name="sentence_register">הירשמו ותתחילו לבשל</string>
+    <string name="your_name">שם</string>
+    <string name="your_email">דואר האלקטורני</string>
+    <string name="password_again">הזן סיסמא בשנית</string>
+    <string name="swipe_right_for_login">לחץ להתחברות</string>
+    <string name="swipe_left_for_register">לחץ לרישום</string>
+    <string name="failed_register">הרישום נכשל</string>
+    <string name="incorrect_pass">הסיסמאות לא זהות</string>
+    <string name="email_empty">אנא הזן כתובת מייל</string>
+    <string name="bad_pass">הסיסמא צריכה להיות מינימום 7 תווים</string>
+
+
+</resources>

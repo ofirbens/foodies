@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257724510941",
+    "firebase_url": "https://recipe-6aac8-default-rtdb.firebaseio.com",
+    "project_id": "recipe-6aac8",
+    "storage_bucket": "recipe-6aac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257724510941:android:bb39cf21636060d0982134",
+        "android_client_info": {
+          "package_name": "com.example.foodies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257724510941-phb010prghuspclnel72vmukjq3ls919.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfQzoM2cDvjMabU2kXwKiYlwP3dCuVPHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257724510941-phb010prghuspclnel72vmukjq3ls919.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
